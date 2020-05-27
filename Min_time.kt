@@ -1,4 +1,6 @@
 /*
+This is a codechef question https://www.codechef.com/problems/WALKFAST 
+
 There are N cities in in a straight line numbered 1 to N. City i is located at coordinate xi on the x-axis. Guru wants to travel from city A to city B. He starts at time t=0. He has following choices to travel.
 
   1. He can walk 1 metre in P secs.
